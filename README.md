@@ -3,7 +3,6 @@ A lively developer.
 
 Part of @100DaysOfCode.
 
-And i dont care much for the commit number on my profile here on github, because sometimes i commit even for small changes, git is for tracking progress, when for self projects, isn't it? :D
 
 - 🌱 I’m currently diving deeper into Machine Learning field
 - 💬 Ask me about anything [here](https://github.com/adityagupta150/adityagupta150/issues) or DM me on twitter
