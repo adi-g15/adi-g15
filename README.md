@@ -1,7 +1,7 @@
 ### Hi there 👋
-A lively developer.
+A lively developer     <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">🤝<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 
-Part of @100DaysOfCode.
+Part of @100DaysOfCode.  [[repoLink](https://github.com/AdityaGupta150/100DaysOfCode)]
 
 
 - 🌱 I’m currently diving deeper into Machine Learning field
