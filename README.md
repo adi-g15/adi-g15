@@ -6,9 +6,6 @@ A lively developer     <img height="20" src="https://raw.githubusercontent.com/g
 Part of @100DaysOfCode.  ![DayNo.](http://adig15.herokuapp.com/util/whatDayIsIt) [[repoLink](https://github.com/AdityaGupta150/100DaysOfCode)]
 
 
-- 🌱 I’m currently diving deeper into the Machine Learning field
-- 💬 Ask me about anything [here](https://github.com/adityagupta150/adityagupta150/issues) or DM me on twitter
-- 📫 How to reach me: DM me on <a href="https://twitter.com/Aditya_G15">
   <img alt="Aditya_G15 | Twitter" width="23px" src="https://raw.githubusercontent.com/AdityaGupta150/AdityaGupta150/master/assets/Twitter_Logo_Blue.svg" />
 </a>
 
@@ -25,3 +22,7 @@ Part of @100DaysOfCode.  ![DayNo.](http://adig15.herokuapp.com/util/whatDayIsIt)
 <span>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=adityagupta150&show_icons=true&count_private=true&theme=dracula" />
 </span>
+
+- 🌱 I’m currently diving deeper into the Machine Learning field
+- 💬 Ask me about anything [here](https://github.com/adityagupta150/adityagupta150/issues) or DM me on twitter
+- 📫 How to reach me: DM me on <a href="https://twitter.com/Aditya_G15">
