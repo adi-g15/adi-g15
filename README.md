@@ -20,7 +20,7 @@ Part of @100DaysOfCode.  ![DayNo.](http://adig15.herokuapp.com/util/whatDayIsIt)
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 </span>
 <span>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=adityagupta150&show_icons=true&count_private=true&theme=dracula" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=adityagupta150&show_icons=true&count_private=true&theme=dracula&hide_rank=true" />
 </span>
 
 - 🌱 I’m currently diving deeper into the Machine Learning field
