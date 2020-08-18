@@ -9,7 +9,10 @@
 
 
 - 😃 A lively developer     <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">🤝<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-- :100: Part of [@100DaysOfCode](https://github.com/AdityaGupta150/100DaysOfCode).  ![DayNo.](http://adig15.herokuapp.com/util/whatDayIsIt)
+- :100: Part of [@100DaysOfCode](https://github.com/AdityaGupta150/100DaysOfCode).
+<a href="https://github.com/AdityaGupta150/100DaysOfCode">
+  <img alt="DayNo." width="20px" src="https://raw.githubusercontent.com/AdityaGupta150/AdityaGupta150/dev/outputSVGs/100.svg" />
+</a>
 - 🌱 I’m currently diving deeper into ML
 - 💬 How to reach me: DM me on <a href="https://twitter.com/Aditya_G15">  <img alt="Aditya_G15 | Twitter" width="30px" src="https://raw.githubusercontent.com/AdityaGupta150/AdityaGupta150/master/assets/Twitter_Logo_Blue.svg" />
 </a>
