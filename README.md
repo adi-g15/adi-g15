@@ -2,7 +2,8 @@
 
 
 <span>
-  <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=adityagupta150&show_icons=true&count_private=true&theme=dracula&hide_credits=false" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityagupta150&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=adityagupta150&show_icons=true&count_private=true&include_all_commits=true&show_credits=true&hide=stars&hide_rank=true&hide_title=true" /?
 </span>
 
 <p style="color:blue;font-size:18px;">
@@ -10,9 +11,7 @@
 
 - 😃 A lively developer     <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">🤝<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 - :100: Part of [@100DaysOfCode](https://github.com/AdityaGupta150/100DaysOfCode).
-<a href="https://github.com/AdityaGupta150/100DaysOfCode">
-  <img alt="DayNo." width="20px" src="https://raw.githubusercontent.com/AdityaGupta150/AdityaGupta150/dev/outputSVGs/100.svg" />
-</a>
+  ![DayNo.](https://raw.githubusercontent.com/AdityaGupta150/AdityaGupta150/dev/outputSVGs/10.svg)
 - 🌱 I’m currently diving deeper into ML
 - 💬 How to reach me: DM me on <a href="https://twitter.com/Aditya_G15">  <img alt="Aditya_G15 | Twitter" width="30px" src="https://raw.githubusercontent.com/AdityaGupta150/AdityaGupta150/master/assets/Twitter_Logo_Blue.svg" />
 </a>
