@@ -2,7 +2,7 @@
 
 
 <span>
-  <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=adityagupta150&show_icons=true&count_private=true&theme=dracula&hide_credits=false&hide_rank=true" />
+  <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=adityagupta150&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide=stars&hide_rank=true&hide_credits=false&show_credits=true" />
 </span>
 
 <p style="color:blue;font-size:18px;">
