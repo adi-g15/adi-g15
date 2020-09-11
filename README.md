@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-
+![](https://komarev.com/ghpvc/?username=AdityaGupta150)
 <span>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityagupta150&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=adityagupta150&show_icons=true&count_private=true&include_all_commits=true&show_credits=true&hide=stars&hide_rank=true&hide_title=true" /?
 </span>
