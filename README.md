@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <span>
-  <img align="right" width="40%" src="https://github-contribution-stats.vercel.app/api/?username=AdityaGupta150">
+  <img align="right" width="45%" src="https://github-contribution-stats.vercel.app/api/?username=AdityaGupta150">
 </span>
 
 <!--   <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=adityagupta150&show_icons=true&count_private=true&theme=dracula&hide=stars&hide_credits=false&show_credits=true" /> -->
