@@ -14,8 +14,6 @@
 - 💬 How to reach me: DM me on <a href="https://twitter.com/AdityaGupta150">  <img alt="AdityaGupta150 | Twitter" width="30px" src="https://raw.githubusercontent.com/AdityaGupta150/AdityaGupta150/master/assets/Twitter_Logo_Blue.svg" />
 </a>
 
-Fun fact -> Highly interested in OS Development 🖥️🖱️💻 in further years, will work more on contributing to OS and Kernel Development
-
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
